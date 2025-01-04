@@ -1,7 +1,7 @@
-# Automatic Barnacle
+# CrispyFi
 
 ## Description
-Automatic Barnacle is an **ethical hacking tool** designed for WiFi attacking, inspired by Deauther and EvilTwin. 
+CrispyFi is an **ethical hacking tool** designed for WiFi attacking, inspired by Deauther and EvilTwin. 
 It allows you to discover passwords for WiFi networks using the 802.11 standard.
 
 ## Features
@@ -43,4 +43,4 @@ It allows you to discover passwords for WiFi networks using the 802.11 standard.
     - Don't forget to stop deauthing by clicking `Stop Deauthing`.
 
 ## Disclaimer
-Automatic Barnacle is developed strictly for **ethical purposes** such as testing the security of your own WiFi network. Unauthorized use on networks without permission is illegal and violates ethical standards. Use responsibly!
+CrispyFi is developed strictly for **ethical purposes** such as testing the security of your own WiFi network. Unauthorized use on networks without permission is illegal and violates ethical standards. Use responsibly!
